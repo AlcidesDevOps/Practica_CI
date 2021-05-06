@@ -5,7 +5,7 @@ html,body {
 header {
         
     display:block;
-    background:#2ff028;
+    background:#f02828;
     padding:10px 0px;
 }
 section {
@@ -19,7 +19,7 @@ section {
 
 aside {
     float: right;
-    border: 1px solid red;
+    border: 1px solid rgb(0, 238, 255);
     width: 19%;
     border: 1px solid red;
     /*Si quisieramos ocultar el contenido relacionado pondriamos visibility a hidden*/
